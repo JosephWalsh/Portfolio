@@ -1,26 +1,19 @@
 # Portfolio
-My Portfolio Website code
+A portfolio website for a web developer
 
-TODO: Write a project description
+This is a design for a online portfolio / CV. It is a modified bootstrap template
 
 ## Installation
-TODO: Describe the installation process
+To install please download the zip.file
 
 ## Usage
-TODO: Write usage instructions
-
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+Use anyway you see fit
 
 ## History
-TODO: Write history
+Created 28-Jan-2015
 
 ## Credits
-TODO: Write credits
+Written by Joe Walsh
 
 ## License
 TODO: Write license
